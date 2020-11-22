@@ -68,6 +68,15 @@
  VARIABLES
 ================
 */
+
+.download-demo{
+	font-size: 150%;
+	text-align: center;
+	font-family: Impact;
+}
+
+
+
 * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
